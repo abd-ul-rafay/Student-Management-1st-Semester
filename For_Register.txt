@@ -1,0 +1,48 @@
+
+Registration of Courses
+AbdulRafay
+ID: 21016065024
+CGPA: 3.9
+1.OOP
+2.Discrete Structures
+3.Applied Physics
+4.OOP LAB
+5.Composition & Communication
+6.Applied Physics Lab
+7.Pakistan Studies
+----------------------------------------------
+Registration of Courses
+AbdulRafay
+ID: 21016065024
+CGPA: 3.9
+1.OOP
+2.Discrete Structures
+3.Applied Physics
+4.OOP LAB
+5.Composition & Communication
+6.Applied Physics Lab
+7.Pakistan Studies
+----------------------------------------------
+Registration of Courses
+Zain
+ID: 21016065092
+CGPA: 2.3
+1.OOP
+2.Discrete Structures
+3.Applied Physics
+----------------------------------------------
+Registration of Courses
+Zain
+ID: 21016065092
+CGPA: 2.3
+1.OOP
+2.Discrete Structures
+3.Applied Physics
+----------------------------------------------
+Registration of Courses
+Hajra
+ID: 21016065093
+CGPA: 1.9
+1.OOP
+2.Discrete Structures
+----------------------------------------------
